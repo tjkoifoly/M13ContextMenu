@@ -27,7 +27,7 @@ There are two examples included in the example project. One adding the menu to a
 
 License:
 ---------
-> Copyright 2013 Brandon McQuilkin 
+> Copyright 2014 Brandon McQuilkin 
 >
 >Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
