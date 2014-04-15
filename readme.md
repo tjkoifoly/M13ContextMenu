@@ -1,17 +1,17 @@
-<img src="https://raw.github.com/Marxon13/M13OrderedDictionary/master/ImageResources/M13ContextMenuBanner.png">
+<img src="https://raw.githubusercontent.com/Marxon13/M13ContextMenu/master/ImageResources/M13ContextMenuBanner.png">
 
 M13ContextMenu
 ============
 
 M13ContextMenu is a Pintrest style context menu for iOS. Designed to work with UICollectionViews, it is easily added to any UICollectionView to add a context menu for each cell. It can also be added to any other UIView. The items are  customizable, so it is very easy to style the context menu for your application.
 
-<img src="https://raw.github.com/Marxon13/M13OrderedDictionary/master/ImageResources/BasicViewNoSelection.png" width="150px">
+<img src="https://raw.githubusercontent.com/Marxon13/M13ContextMenu/master/ImageResources/BasicViewNoSelection.png" width="150px">
 
-<img src="https://raw.github.com/Marxon13/M13OrderedDictionary/master/ImageResources/BasicViewSelection.png" width="150px">
+<img src="https://raw.githubusercontent.com/Marxon13/M13ContextMenu/master/ImageResources/BasicViewSelection.png" width="150px">
 
-<img src="https://raw.github.com/Marxon13/M13OrderedDictionary/master/ImageResources/CollectionViewNoSelection.png" width="150px">
+<img src="https://raw.githubusercontent.com/Marxon13/M13ContextMenu/master/ImageResources/CollectionViewNoSelection.png" width="150px">
 
-<img src="https://raw.github.com/Marxon13/M13OrderedDictionary/master/ImageResources/CollectionViewSelection.png" width="150px">
+<img src="https://raw.githubusercontent.com/Marxon13/M13ContextMenu/master/ImageResources/CollectionViewSelection.png" width="150px">
 
 Features:
 ----------
